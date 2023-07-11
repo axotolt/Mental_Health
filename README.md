@@ -24,3 +24,5 @@ Use a questionnaire specified in the data file to analyze whether respondents ar
 - 'MCD (when it was diagnosed, the ultra-mega "disorder" ADHD didn't exist yet)'
 - 'Aspergers'
 - 'Intimate Disorder'
+
+with Recommendation System
